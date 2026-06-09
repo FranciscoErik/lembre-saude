@@ -254,7 +254,7 @@ FIREBASE_SERVICE_ACCOUNT_PATH=./config/firebase-service-account.json
 
 ---
 
-## Entrega TED 2
+## Entrega TED 4
 
 1. Link do repositório Git (código backend + app Flutter)
 2. Vídeo de pitch (3–5 min) demonstrando o app integrado
